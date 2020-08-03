@@ -6,7 +6,7 @@ description: Syllabus for BMI 883, Biomedical data science professional skills
 
 [BMI](https://biostat.wisc.edu) 883, Biomedical data science professional skills <br/>
 [University of Wisconsin-Madison](https://wisc.edu) <br/>
-(2 credits)
+(1 credit)
 
 **Course meetings**: Fr 11:00-11:50, via BBCollaborate at [Canvas site](https://canvas.wisc.edu)
 
