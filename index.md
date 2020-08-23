@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biomedical data science professional skills
+title: Biomedical data science professional skills 1
 description: A seminar on skills for a successful research career.
 ---
 
