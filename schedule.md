@@ -15,11 +15,9 @@ description: Schedule and readings for BMI 883, Biomedical data science professi
 | 9 Oct   |    | Writing a grant |
 | 16 Oct  |    | Giving talks |
 | 23 Oct  |    | The 5 min "elevator" speech |
-| 30 Oct  |    | Preparing and presenting a poster |
-| 6 Nov   |    | \[student presentations\] |
-| 13 Nov  |    | \[student presentations\] |
+| 30 Oct  |    | Elevator speech practice |
+| 6 Nov   |    | Preparing and presenting a poster |
+| 13 Nov  |    | TBD |
 | 20 Nov  |    | Keeping a lab notebook |
 | 27 Nov  |    | **No class** |
-| 4 Dec   |    | Diversity, inclusion, and bias in research, the workplace, |
-|         |    | reviewing papers/grants, writing/evaluating recommendation letters, |
-|         |    | and hiring/promotion |
+| 4 Dec   |    | Overcoming unconscious bias |
