@@ -8,9 +8,9 @@ description: Schedule and readings for BMI 883, Biomedical data science professi
 | Date    | &nbsp;&nbsp;&nbsp;&nbsp;   | Topic/Reading  |
 | :------ | -- | :----- |
 | 4 Sep   |    | Course introduction |
-| 11 Sep  |    | The publication process |
-| 18 Sep  |    | Writing a paper |
-| 25 Sep  |    | Reviewing a paper |
+| 11 Sep  |    | The publication process: [_Eloquent Science_, Ch 1](https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1115549) |
+| 18 Sep  |    | Writing a paper: [Is the scientific paper a fraud?](http://www.weizmann.ac.il/mcb/UriAlon/sites/mcb.UriAlon/files/uploads/medawar.pdf) |
+| 25 Sep  |    | Reviewing a paper: [Knuth pg 31-35](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf), [Knuth hints](http://www.ifs.tuwien.ac.at/~silvia/research-tips/Knuth.pdf), [Bernstein 2008](https://www.markbernstein.org/elements/Reviewing.pdf) |
 | 2 Oct   |    | Scientific funding and the grant review process |
 | 9 Oct   |    | Writing a grant |
 | 16 Oct  |    | Giving talks |
