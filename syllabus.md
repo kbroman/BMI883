@@ -34,9 +34,8 @@ industry, and teaching.
 
 ### Course grade
 
-Course grade will be based on class participation (40%),
-3 homework assignments (45%), and an in-class presentation on
-their research work (15%).
+Course grade will be based on class participation (55%) and
+3 homework assignments (45%).
 
 The homework assignments will include: writing a review of a paper,
 writing an abstract to present at a scientific meeting, and writing
