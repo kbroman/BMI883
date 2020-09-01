@@ -2,7 +2,7 @@
 
 This repository contains the source for the website for the course
 [Biomedical data science professional
-skills](https://kbroman.org/BMI881), a graduate course at
+skills](https://kbroman.org/BMI883), a graduate course at
 [UW-Madison](https://wisc.edu) that is part of the [Biomedical Data Science PhD program](https://bit.ly/MadBDS).
 
 A variety of skills that are important for a successful research
