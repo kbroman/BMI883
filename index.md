@@ -11,12 +11,13 @@ papers, security research funding, giving talks, presenting posters,
 making a personal website, job opportunities in universities and
 industry, and teaching.
 
-**Course meetings**: Fri 11:00-11:50, via BBCollaborate at [Canvas site](https://canvas.wisc.edu)
+**Course meetings**: Fri 11:00-11:50 (via zoom; get link at [Canvas site](https://canvas.wisc.edu))
 
 **Instructor**: [Karl Broman](https://kbroman.org)
 
-**Office hours**: Tu 9:30-10:30, Fr 9:30-10:30, or by appointment,
-via BBCollaborate: <https://bit.ly/offhrs_f2020>
+**Office hours**: Tu 9:30-10:30, Fr 9:30-10:30, or by appointment
+(via zoom; get link at [Canvas site](https://canvas.wisc.edu), or
+email Karl)
 
 - [schedule](schedule.html)
 - [syllabus](syllabus.html)
