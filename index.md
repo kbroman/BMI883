@@ -16,8 +16,7 @@ industry, and teaching.
 **Instructor**: [Karl Broman](https://kbroman.org)
 
 **Office hours**: Tu 9:30-10:30, Fr 9:30-10:30, or by appointment
-(via zoom; get link at [Canvas site](https://canvas.wisc.edu), or
-email Karl)
+(via zoom; get link at [Canvas site](https://canvas.wisc.edu))
 
 - [schedule](schedule.html)
 - [syllabus](syllabus.html)
