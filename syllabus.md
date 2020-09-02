@@ -33,6 +33,33 @@ industry, and teaching.
 
 
 
+### Discussion
+
+The primary course activity will be discussion. Be prepared, be
+engaged, but also listen and be respectful.
+
+I ask that everyone strive toward the following:
+
+#### Norms for discussion
+
+- Presume positive intentions
+- Engage respectfully
+- Listen attentively
+- Aim for equal participation
+- Respect boundaries
+- Provide evidence
+
+#### Online working agreements
+
+- Use your video camera if possible
+- Use names to address each other
+- Use features (mute, raise hand, chat, etc) appropriately
+- Be okay with silence
+- Start and end on time
+
+(taken from [The Discussion Project](https://discussion.education.wisc.edu))
+
+
 ### Course grade
 
 Course grade will be based on class participation (55%) and
