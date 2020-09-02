@@ -36,7 +36,7 @@ industry, and teaching.
 ### Discussion
 
 The primary course activity will be discussion. Be prepared, be
-engaged, but also listen and be respectful.
+engaged, listen, and be respectful.
 
 I ask that everyone strive toward the following:
 
