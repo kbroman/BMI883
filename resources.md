@@ -7,6 +7,13 @@ description: Resources for BMI 883, Biomedical data science professional skills
 - [Jeff Leek](http://jtleek.com) on [Writing your first academic paper](https://github.com/jtleek/firstpaper)
 - [Jeff Leek](http://jtleek.com) on [Reviewing academic papers](https://github.com/jtleek/reviews)
 
+### Conference proceedings
+
+- [Ten simple rules for writing algorithmic bioinformatics conference papers](https://doi.org/10.1371/journal.pcbi.1007742)
+- [An example of open hostility in the conference review process](https://openreview.net/forum?id=ry_WPG-A-)
+
+
+
 ### Books
 
 - [What they didn't teach you in graduate
