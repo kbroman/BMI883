@@ -1,2 +1,4 @@
-00_intro_slides.pdf: 00_intro_slides.tex
+all: 00_intro_slides.pdf 01_publications.pdf
+
+%.pdf: %.tex
 	xelatex $<
