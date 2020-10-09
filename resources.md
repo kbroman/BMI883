@@ -4,6 +4,10 @@ title: resources
 description: Resources for BMI 883, Biomedical data science professional skills
 ---
 
+### Grants
+
+[Open Grants repository](https://www.ogrants.org/)
+
 ### Conference proceedings
 
 - [Ten simple rules for writing algorithmic bioinformatics conference papers](https://doi.org/10.1371/journal.pcbi.1007742)
