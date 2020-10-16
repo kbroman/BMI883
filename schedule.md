@@ -13,7 +13,7 @@ description: Schedule and readings for BMI 883, Biomedical data science professi
 | 25 Sep  |    | Reviewing a paper: [Knuth pg 31-35](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf), [Knuth hints](http://www.ifs.tuwien.ac.at/~silvia/research-tips/Knuth.pdf), [Bernstein 2008](https://www.markbernstein.org/elements/Reviewing.pdf) |
 | 2 Oct   |    | [Scientific funding and the grant review process ![slides pdf](icons/pdf-icon.png)](slides/04_grants.pdf): [Getting Funded](https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2_ch9.pdf#page=3) (from [_Making the Right Moves_](https://www.hhmi.org/science-education/programs/making-right-moves))|
 | 9 Oct   |    | [Writing a grant ![slides pdf](icons/pdf-icon.png)](slides/05_grantwriting.pdf) |
-| 16 Oct  |    | Writing an abstract ![slides pdf](icons/pdf-icon.png)](slides/06_abstracts.pdf): [Pearse & Ferguson (2017)](https://doi.org/10.1002/2327-6924.12486); [six easy steps](http://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/) |
+| 16 Oct  |    | [Writing an abstract ![slides pdf](icons/pdf-icon.png)](slides/06_abstracts.pdf): [Pearse & Ferguson (2017)](https://doi.org/10.1002/2327-6924.12486); [six easy steps](http://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/) |
 | 23 Oct  |    | Giving talks: [David Stern on "How to Give a Talk"](http://www.howtogiveatalk.com) |
 | 30 Oct  |    | The 2 min "elevator" speech |
 |         |    | (**[homework 1](homework1.html) due**) |
