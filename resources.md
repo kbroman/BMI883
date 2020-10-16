@@ -4,6 +4,15 @@ title: resources
 description: Resources for BMI 883, Biomedical data science professional skills
 ---
 
+### Giving talks
+
+- [Guidelines on giving
+  talks](https://www.amelia.mn/blog/misc/2020/04/16/presentations.html),
+  [Amelia McNamara](https://www.amelia.mn/)
+- [Leek group guide to giving
+  talks](https://github.com/jtleek/talkguide)
+- [Karl](https://kbroman.org)'s slides on [How to give a scientific presentation](https://www.biostat.wisc.edu/~kbroman/talks/giving_talks.pdf)
+
 ### Grants
 
 [Open Grants repository](https://www.ogrants.org/)
