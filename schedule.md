@@ -14,8 +14,8 @@ description: Schedule and readings for BMI 883, Biomedical data science professi
 | 2 Oct   |    | [Scientific funding and the grant review process ![slides pdf](icons/pdf-icon.png)](slides/04_grants.pdf): [Getting Funded](https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2_ch9.pdf#page=3) (from [_Making the Right Moves_](https://www.hhmi.org/science-education/programs/making-right-moves))|
 | 9 Oct   |    | [Writing a grant ![slides pdf](icons/pdf-icon.png)](slides/05_grantwriting.pdf) |
 | 16 Oct  |    | Writing an abstract: [Pearse & Ferguson (2017)](https://doi.org/10.1002/2327-6924.12486); [six easy steps](http://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/) |
-| 23 Oct  |    | Giving talks |
-| 30 Oct  |    | The 5 min "elevator" speech |
+| 23 Oct  |    | Giving talks: [David Stern on "How to Give a Talk"](http://www.howtogiveatalk.com) |
+| 30 Oct  |    | The 2 min "elevator" speech |
 |  6 Nov  |    | Elevator speech practice |
 | 13 Nov  |    | Preparing and presenting a poster |
 | 20 Nov  |    | Keeping a lab notebook |
