@@ -16,6 +16,7 @@ description: Schedule and readings for BMI 883, Biomedical data science professi
 | 16 Oct  |    | Writing an abstract: [Pearse & Ferguson (2017)](https://doi.org/10.1002/2327-6924.12486); [six easy steps](http://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/) |
 | 23 Oct  |    | Giving talks: [David Stern on "How to Give a Talk"](http://www.howtogiveatalk.com) |
 | 30 Oct  |    | The 2 min "elevator" speech |
+|         |    | (**[homework 1](homework1.html) due**) |
 |  6 Nov  |    | Elevator speech practice |
 | 13 Nov  |    | Preparing and presenting a poster: ["Better scientific poster"](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better) |
 | 20 Nov  |    | Keeping a lab notebook |

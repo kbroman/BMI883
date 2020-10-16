@@ -12,7 +12,7 @@ of discussion.
 
 ### Homework assignments
 
-There will be three written homework assignments.
-The homework assignments will include: writing a review of a paper,
-writing an abstract to present at a scientific meeting, and writing
-the specific aims page for a grant proposal.
+There will be two homework assignments: writing an abstract, and
+writing a 2 min elevator speech.
+
+- [Homework 1](homework1.html) due 30 Oct 2020

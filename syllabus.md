@@ -62,12 +62,11 @@ I ask that everyone strive toward the following:
 
 ### Course grade
 
-Course grade will be based on class participation (55%) and
-3 homework assignments (45%).
+Course grade will be based on class participation (70%) and
+2 homework assignments (30%).
 
-The homework assignments will include: writing a review of a paper,
-writing an abstract to present at a scientific meeting, and writing
-the specific aims page for a grant proposal.
+The homework assignments will include: writing an abstract, and
+writing a 2 min elevator speech.
 
 The class participation grade will be based on participation in each
 session, scored according to the following rubric:
@@ -109,10 +108,9 @@ of discussion.
 
 #### Homework assignments
 
-There will be three written homework assignments
-The homework assignments will include: writing a review of a paper,
-writing an abstract to present at a scientific meeting, and writing
-the specific aims page for a grant proposal.
+There will be two written homework assignments
+The homework assignments will include:
+writing an abstract, and writing a 2 min elevator speech.
 
 
 ### Religious observances or other absences
