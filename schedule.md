@@ -17,7 +17,7 @@ description: Schedule and readings for BMI 883, Biomedical data science professi
 | 23 Oct  |    | Giving talks: [David Stern on "How to Give a Talk"](http://www.howtogiveatalk.com) |
 | 30 Oct  |    | The 2 min "elevator" speech |
 |  6 Nov  |    | Elevator speech practice |
-| 13 Nov  |    | Preparing and presenting a poster |
+| 13 Nov  |    | Preparing and presenting a poster: ["Better scientific poster"](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better) |
 | 20 Nov  |    | Keeping a lab notebook |
 | 27 Nov  |    | **No class** |
 | 4 Dec   |    | Overcoming unconscious bias |
