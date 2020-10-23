@@ -16,3 +16,4 @@ There will be two homework assignments: writing an abstract, and
 writing a 2 min elevator speech.
 
 - [Homework 1](homework1.html) due 30 Oct 2020
+- [Homework 2](homework2.html) due 6 Nov 2020
