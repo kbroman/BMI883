@@ -17,7 +17,7 @@ description: Schedule and readings for BMI 883, Biomedical data science professi
 | 23 Oct  |    | [Giving talks ![slides pdf](icons/pdf-icon.png)](slides/07_talks.pdf): [David Stern on "How to Give a Talk"](http://www.howtogiveatalk.com) |
 | 30 Oct  |    | The 2 min "elevator" speech: [How to sell your thesis](https://thesiswhisperer.com/2010/07/01/how-to-sell-your-thesis-in-3-minutes-or-less/); [Deconstructing the elevator speech](https://uclalibrary.github.io/research-tips/deconstructing-the-elevator-speech/) |
 |         |    | (**[homework 1](homework1.html) due**) |
-|  6 Nov  |    | Elevator speech practice |
+|  6 Nov  |    | Elevator speech practice ([see Karl's example](elevator_speech_example.html))|
 |         |    | (**[homework 2](homework2.html) due**) |
 | 13 Nov  |    | Preparing and presenting a poster: ["Better scientific poster"](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better) |
 | 20 Nov  |    | Keeping a lab notebook |
