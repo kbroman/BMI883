@@ -29,6 +29,7 @@ description: Resources for BMI 883, Biomedical data science professional skills
 
 ### Writing papers
 
+- [Why academics write so badly](https://areomagazine.com/2020/07/06/writing-wrongs-why-academics-write-so-badly-and-how-that-hurts-them/)
 - [LSC 560](https://guide.wisc.edu/courses/lsc/) course on scientific
   writing
 - [Jeff Leek](http://jtleek.com) on [Writing your first academic paper](https://github.com/jtleek/firstpaper)
