@@ -19,7 +19,7 @@ description: Schedule and readings for BMI 883, Biomedical data science professi
 |         |    | (**[homework 1](homework1.html) due**) |
 |  6 Nov  |    | Elevator speech practice ([see Karl's example](elevator_speech_example.html))|
 |         |    | (**[homework 2](homework2.html) due**) |
-| 13 Nov  |    | Preparing and presenting a poster: ["Better scientific poster"](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better) |
+| 13 Nov  |    | Preparing and presenting a poster: ["Better scientific poster"](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better); [Designing research posters ![video icon](icons/video-icon.png)](https://www.youtube.com/watch?v=XDJeSj7u488) |
 | 20 Nov  |    | Keeping a lab notebook |
 | 27 Nov  |    | **No class** |
 | 4 Dec   |    | Overcoming unconscious bias |
