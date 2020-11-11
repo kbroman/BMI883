@@ -21,5 +21,5 @@ industry, and teaching.
 
 - [schedule](schedule.html)
 - [syllabus](syllabus.html)
-- [assignments](assignments.html): [homework 2](homework2.html) due 6 Nov 2020
+- [assignments](assignments.html)
 - [resources](resources.html)
