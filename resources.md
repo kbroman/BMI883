@@ -17,6 +17,8 @@ description: Resources for BMI 883, Biomedical data science professional skills
 ### Posters
 
 - [UW-Madison DesignLab](https://designlab.wisc.edu) [page about research posters](https://designlab.wisc.edu/resources/projects/posters/)
+- [Designing conference posters (blog post)](https://colinpurrington.com/tips/poster-design)
+
 
 ### Grants
 
