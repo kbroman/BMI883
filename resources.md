@@ -13,6 +13,7 @@ description: Resources for BMI 883, Biomedical data science professional skills
   talks](https://github.com/jtleek/talkguide)
 - [Karl](https://kbroman.org)'s slides on [How to give a scientific presentation](https://www.biostat.wisc.edu/~kbroman/talks/giving_talks.pdf)
 - [UW-Madison DesignLab](https://designlab.wisc.edu) [page about presentations](https://designlab.wisc.edu/resources/presentations-and-posters/)
+- [Design principles for virtual presentations (video)](https://uwmadison.box.com/s/9mjv8jiai3qt5nbbssk5c56dc8qugc4g)
 
 ### Posters
 
