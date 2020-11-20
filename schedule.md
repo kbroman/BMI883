@@ -20,4 +20,4 @@ description: Schedule and readings for BMI 883, Biomedical data science professi
 | 13 Nov  |    | Preparing and presenting a poster: ["Better scientific poster"](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better); [Designing research posters ![video icon](icons/video-icon.png)](https://www.youtube.com/watch?v=XDJeSj7u488) |
 | 20 Nov  |    | Keeping a lab notebook: [Ten simple rules](https://doi.org/10.1371/journal.pcbi.1004385); [Open notebook science](https://crastina.se/open-notebook-science-the-carl-boettiger-interview-2/)  |
 | 27 Nov  |    | **No class** |
-| 4 Dec   |    | Overcoming unconscious bias |
+| 4 Dec   |    | Overcoming unconscious bias: [Kolehmainen and Carnes (2018)](https://doi.org/10.1161/CIRCULATIONAHA.117.031295); [Pritlove et al. (2019)](https://doi.org/10.1016/S0140-6736(18)32267-0) |
