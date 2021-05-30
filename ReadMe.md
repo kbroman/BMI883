@@ -12,6 +12,11 @@ reviewing papers, securing research funds, giving talks, presenting
 posters, making a personal website, job opportunities in universities
 and industry, and teaching.
 
+Past versions:
+
+- [Fall, 2020](https://kbroman.org/BMI883_fall2020/)
+  [![github icon](https://kbroman.org/icons16/github-icon.png)](https://github.com/kbroman/BMI883_fall2020/)
+
 ---
 
 My parts of this web site are licensed under
