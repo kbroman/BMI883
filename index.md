@@ -11,9 +11,9 @@ papers, security research funding, giving talks, presenting posters,
 making a personal website, job opportunities in universities and
 industry, and teaching.
 
-**Course meetings**: Fri 11:00-11:50
+**Course meetings**: Fri 11:00-11:50, [4765 MSC](https://map.wisc.edu/s/x2g30uqo)
 
-**Instructor**: [Karl Broman](https://kbroman.org)
+**Instructor**: [Karl Broman](https://kbroman.org), [2126 Genetics-Biotech](https://map.wisc.edu/s/5gyvnffv)
 
 **Office hours**: Tu 9:30-10:30, or by appointment
 
