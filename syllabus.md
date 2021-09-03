@@ -8,11 +8,12 @@ description: Syllabus for BMI 883, Biomedical data science professional skills
 [University of Wisconsin-Madison](https://wisc.edu) <br/>
 (1 credit)
 
-**Course meetings**: Fri 11:00-11:50
+**Course meetings**: Fri 11:00-11:50, [4765 MSC](https://map.wisc.edu/s/x2g30uqo)
 
-**Instructor**: [Karl Broman](https://kbroman.org)
+**Instructor**: [Karl Broman](https://kbroman.org), [2126 Genetics-Biotech](https://map.wisc.edu/s/5gyvnffv)
 
-**Office hours**: Tu 9:30-10:30, or by appointment
+**Office hours**: Tu 9:30-10:30, or by appointment, in 2126
+Genetics-Biotech or via zoom, <https://bit.ly/broman_office_hours>
 
 A variety of skills that are important for a successful research
 career are often left to students to develop on their own. This course

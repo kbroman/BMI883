@@ -15,7 +15,8 @@ industry, and teaching.
 
 **Instructor**: [Karl Broman](https://kbroman.org), [2126 Genetics-Biotech](https://map.wisc.edu/s/5gyvnffv)
 
-**Office hours**: Tu 9:30-10:30, or by appointment
+**Office hours**: Tu 9:30-10:30, or by appointment, in 2126
+Genetics-Biotech or via zoom, <https://bit.ly/broman_office_hours>
 
 - [schedule](schedule.html)
 - [syllabus](syllabus.html)
