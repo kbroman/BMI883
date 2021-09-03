@@ -32,6 +32,17 @@ industry, and teaching.
 
 
 
+### COVID-19
+
+- The course will be held in-person in [4765 MSC](https://map.wisc.edu/s/x2g30uqo)
+- COVID-19 vaccination is strongly encouraged
+- Follow all [campus regulations](https://covidresponse.wisc.edu), including the required use of masks
+  indoors
+- If you have COVID-related symptoms, please stay home
+- If you need to miss class, [email Karl Broman](https://kbroman.org/about)
+
+
+
 ### Discussion
 
 The primary course activity will be discussion. Be prepared, be
