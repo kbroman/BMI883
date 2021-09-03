@@ -48,15 +48,6 @@ I ask that everyone strive toward the following:
 - Respect boundaries
 - Provide evidence
 
-#### Online working agreements
-
-- Use your video camera if possible
-- Use names to address each other
-- Use features (mute, raise hand, chat, etc) appropriately
-- Be okay with silence
-- Start and end on time
-
-(taken from [The Discussion Project](https://discussion.education.wisc.edu))
 
 
 ### Course grade
