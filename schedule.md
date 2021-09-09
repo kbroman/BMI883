@@ -21,3 +21,7 @@ description: Schedule and readings for BMI 883, Biomedical data science professi
 | 26 Nov  |    | **No class** |
 | 3 Dec  |    | Keeping a lab notebook: [Ten simple rules](https://doi.org/10.1371/journal.pcbi.1004385); [Open notebook science](https://crastina.se/open-notebook-science-the-carl-boettiger-interview-2/)  |
 | 10 Dec   |    | Overcoming unconscious bias: [Kolehmainen and Carnes (2018)](https://doi.org/10.1161/CIRCULATIONAHA.117.031295); [Pritlove et al. (2019)](https://doi.org/10.1016/S0140-6736(18)32267-0) |
+
+---
+
+Readings available at [the course's Canvas site](https://canvas.wisc.edu/courses/273716).
