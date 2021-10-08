@@ -24,6 +24,7 @@ description: Resources for BMI 883, Biomedical data science professional skills
 - [Karl](https://kbroman.org)'s slides on [How to give a scientific presentation](https://www.biostat.wisc.edu/~kbroman/talks/giving_talks.pdf)
 - [UW-Madison DesignLab](https://designlab.wisc.edu) [page about presentations](https://designlab.wisc.edu/resources/presentations-and-posters/)
 - [Design principles for virtual presentations (video)](https://uwmadison.box.com/s/9mjv8jiai3qt5nbbssk5c56dc8qugc4g)
+- [The craft of scientific presentations](https://amzn.to/3mDqxU2) by Michael Alley (book)
 
 ### Posters
 
@@ -49,7 +50,7 @@ description: Resources for BMI 883, Biomedical data science professional skills
 - [LSC 560](https://guide.wisc.edu/courses/lsc/) course on scientific
   writing
 - [Jeff Leek](http://jtleek.com) on [Writing your first academic paper](https://github.com/jtleek/firstpaper)
-
+- [The craft of scientific writing](https://amzn.to/3AZlP98) by Michael Alley (book)
 
 ### Reviewing papers
 
