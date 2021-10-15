@@ -37,7 +37,7 @@ description: Resources for BMI 883, Biomedical data science professional skills
 
 ### Grants
 
-[Open Grants repository](https://www.ogrants.org/)
+- [Open Grants repository](https://www.ogrants.org/)
 
 ### Conference proceedings
 
