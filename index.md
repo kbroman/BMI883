@@ -22,3 +22,6 @@ Genetics-Biotech or via zoom, <https://bit.ly/broman_office_hours>
 - [syllabus](syllabus.html)
 - [assignments](assignments.html)
 - [resources](resources.html)
+
+- [Homework 1](homework1.html) (due 5 Nov)
+- [Homework 2](homework2.html) (due 12 Nov)
