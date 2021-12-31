@@ -27,7 +27,6 @@ industry, and teaching.
 - Students will be able to describe the review processes for journal articles and research grant proposals.
 - Students will be able to write clear, well-formed journal articles and research grant proposals.
 - Students will be able to give a clear oral presentation of their research work.
-- Students will be able to demonstrate understanding of how diversity issues impact research and work environments
 - Students will be able to demonstrate understanding of research on unconscious bias (for example, in reviewing papers/grants, in writing/evaluating recommendation letters, and in hiring/promotion) and assumptions and strategies to overcome them.
 
 
