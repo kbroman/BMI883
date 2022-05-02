@@ -10,10 +10,9 @@ description: Syllabus for BMI 883, Biomedical data science professional skills
 
 **Course meetings**: Fri 11:00-11:50, [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
 
-**Instructor**: [Karl Broman](https://kbroman.org), [2126 Genetics-Biotech](https://map.wisc.edu/s/5gyvnffv)
+**Instructor**: [Karl Broman](https://kbroman.org)
 
-**Office hours**: Tu 9:30-10:30, or by appointment, in 2126
-Genetics-Biotech or via zoom, <https://bit.ly/broman_office_hours>
+**Office hours** by appointment
 
 A variety of skills that are important for a successful research
 career are often left to students to develop on their own. This course
@@ -111,10 +110,6 @@ of discussion.
 There will be two written homework assignments
 The homework assignments will include:
 writing an abstract, and writing a 2 min elevator speech.
-
-- [Homework 1](homework1.html) (due 5 Nov)
-- [Homework 2](homework2.html) (due 12 Nov)
-
 
 ### Religious observances or other absences
 
