@@ -13,7 +13,8 @@ industry, and teaching.
 
 **Course meetings**: Fri 11:00-11:50, [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
 
-**Instructor**: [Karl Broman](https://kbroman.org)
+**Instructor**: [Karl Broman](https://kbroman.org),
+[6743 Medical Sciences Center](https://kbroman.org/6743msc.html)
 
 **Office hours** by appointment
 
