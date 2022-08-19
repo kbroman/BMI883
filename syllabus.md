@@ -35,8 +35,7 @@ industry, and teaching.
 
 - The course will be held in-person in [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
 - COVID-19 vaccination is strongly encouraged
-- Follow all [campus regulations](https://covidresponse.wisc.edu), including the required use of masks
-  indoors
+- Use of a high-quality mask is strongly encouraged
 - If you have COVID-related symptoms, please stay home
 - If you need to miss class, [email Karl Broman](https://kbroman.org/about)
 
@@ -112,52 +111,18 @@ There will be two written homework assignments
 The homework assignments will include:
 writing an abstract, and writing a 2 min elevator speech.
 
-### Religious observances or other absences
 
-If you need to miss class for religious observances, or any other
-reason, please let the instructor know in advance, or as soon as is
-feasible, so that we can try to make some accommodation.
+### Additional policies and statements
 
-### Academic integrity
+Also see the [additional institutional policies and
+statements](https://guide.wisc.edu/courses/#syllabustext):
 
-By virtue of enrollment, each student agrees to uphold the high
-academic standards of the University of Wisconsin-Madison; academic
-misconduct is behavior that negatively impacts the integrity of the
-institution. Cheating, fabrication, plagiarism, unauthorized
-collaboration, and helping others commit these previously listed acts
-are examples of misconduct which may result in disciplinary action.
-Examples of disciplinary action include, but is not limited to,
-failure on the assignment/course, written reprimand, disciplinary
-probation, suspension, or expulsion.
-
-### Accommodations for students with disabilities
-
-The University of Wisconsin-Madison supports the right of all enrolled
-students to a full and equal educational opportunity. The Americans
-with Disabilities Act (ADA), Wisconsin State Statute (36.12), and
-UW-Madison policy (Faculty Document 1071) require that students with
-disabilities be reasonably accommodated in instruction and campus
-life. Reasonable accommodations for students with disabilities is a
-shared faculty and student responsibility. Students are expected to
-inform the instructor of their need for instructional accommodations
-by the end of the third week of the semester, or as soon as possible
-after a disability has been incurred or recognized. The instructor
-will work either directly with the student or in coordination with the
-[McBurney Center](https://mcburney.wisc.edu) to identify and provide
-reasonable instructional accommodations. Disability information,
-including instructional accommodations as part of a student's
-educational record, is confidential and protected under FERPA.
-
-### Diversity and inclusion
-
-Diversity is a source of strength, creativity, and innovation for
-UW-Madison. We value the contributions of each person and respect the
-profound ways their identity, culture, background, experience, status,
-abilities, and opinion enrich the university community. We commit
-ourselves to the pursuit of excellence in teaching, research,
-outreach, and diversity as inextricably linked goals.
-
-The University of Wisconsin-Madison fulfills its public mission by
-creating a welcoming and inclusive community for people from every
-background – people who as students, faculty, and staff serve
-Wisconsin and the world. <https://diversity.wisc.edu>
+- [Teaching & Learning Data Transparency](https://guide.wisc.edu/courses/#SyllabusTLData)
+- [Privacy of Student Records](https://guide.wisc.edu/courses/#SyllabusFERPA)
+- [Campus Resources for Academic Success](https://guide.wisc.edu/courses/#SyllabusCampusResources)
+- [Course Evaluations](https://guide.wisc.edu/courses/#SyllabusCourseEvals) and [Digital Course Evaluations](https://guide.wisc.edu/courses/#SyllabusDigitalCourseEval)
+- [Students' Rules, Rights, and Responsibilities](https://guide.wisc.edu/courses/#SyllabusStudentsRightsResponsibilities)
+- [Diversity and Inclusion Statement](https://guide.wisc.edu/courses/#SyllabusDiversityInclusion)
+- [Academic Integrity Statement](https://guide.wisc.edu/courses/#SyllabusAcademicIntegrity)
+- [Accommodations for Students with Disabilities](https://guide.wisc.edu/courses/#SyllabusAccommodations)
+- [Academic Calendar and Religious Observances](https://guide.wisc.edu/courses/#SyllabusCalendarReligiousObservances)
