@@ -4,7 +4,7 @@ title: homework 1
 description: "First homework assignment for BMI 883, Biomedical data science professional skills, to write an abstract for something."
 ---
 
-**Due 5 Nov 2021**
+**Due 4 Nov 2022**
 
 Write a 100-150 word abstract for something:
 
