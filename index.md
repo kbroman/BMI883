@@ -24,3 +24,4 @@ industry, and teaching.
 - [resources](resources.html)
 
 - [Homework 1](homework1.html) (due 4 Nov)
+- [Homework 2](homework2.html) (due 11 Nov)
