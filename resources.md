@@ -8,7 +8,7 @@ description: Resources for BMI 883, Biomedical data science professional skills
 
 - [Wired re Timnit Gebur](https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/)
 - [Nat Comm article on gender in
-  mentoring](https://doi.org/10.1038/s41467-020-19723-8)
+  mentoring](https://doi.org/10.1038/s41467-020-19723-8) (**retracted**)
 - [Hidden contributions to theoretical population genetics](https://doi.org/10.1534/genetics.118.301277)
 - ["UW Black student journalists frustrated, disappointed after
   meeting with Blank"](https://madison.com/ct/news/local/education/uw-black-student-journalists-frustrated-disappointed-after-meeting-with-blank/article_bf9cd73f-6385-50e3-b789-c3a33a6f91b0.html)
