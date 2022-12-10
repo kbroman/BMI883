@@ -6,6 +6,7 @@ description: Resources for BMI 883, Biomedical data science professional skills
 
 ### Articles raised in discussion of implicit bias
 
+- [NY Times: To make orchestras more diverse, end blind auditions](https://www.nytimes.com/2020/07/16/arts/music/blind-auditions-orchestras-race.html?unlocked_article_code=QHDH-4SEnUEUsPh6JJbd4ZeJS2Jux4xfifu_hnWN8gBYs9ypaLXIzGWLFlEP9kJ4nI1TW7MtPprRlR5D_BIXpIUzGAseG2NVsKCC8HZRcgPlg7FlHs3-YorQgsBagGxHdqSnzZwD8hf0UrWagBlqfRcvGxDay9Wcjy2bN1enkhP9FRpGHIW65A6o3lK_jQCtjb-NjL1o6C8Bd7wZMdcKlpyLDkYLzikBlUdT5CQZ-KyH0oAXE5BNC79KfN9KtHR6nh7hjPetHXcUvpjHuUhW_pIYkjn2TcdgxTgmXaN652cjwO_Im8rKWL9FWv-mZxPJHR7OD_R7NtTDAitx2bFa4hNKwIOHbDqymS9oOg&smid=share-url)
 - [Wired re Timnit Gebur](https://www.wired.com/story/prominent-ai-ethics-researcher-says-google-fired-her/)
 - [Nat Comm article on gender in
   mentoring](https://doi.org/10.1038/s41467-020-19723-8) (**retracted**)
