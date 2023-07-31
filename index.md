@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Biomedical data science professional skills 1
+title: Biomedical data science professional skills
 description: A seminar on skills for a successful research career.
 ---
 
 A variety of skills that are important for a successful research
 career are often left to students to develop on their own. This course
 attempts to fill many of those gaps, including writing and reviewing
-papers, security research funding, giving talks, presenting posters,
+papers, securing research funding, giving talks, presenting posters,
 making a personal website, job opportunities in universities and
 industry, and teaching.
 
-**Course meetings**: Fri 11:00-11:50, [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
+**Course meetings**: Mon & Fri 10:00-10:50, [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
 
 **Instructor**: [Karl Broman](https://kbroman.org),
 [6743 Medical Sciences Center](https://kbroman.org/6743msc.html)
@@ -22,6 +22,3 @@ industry, and teaching.
 - [syllabus](syllabus.html)
 - [assignments](assignments.html)
 - [resources](resources.html)
-
-- [Homework 1](homework1.html) (due 4 Nov)
-- [Homework 2](homework2.html) (due 11 Nov)
