@@ -8,7 +8,7 @@ description: Syllabus for BMI 883, Biomedical data science professional skills
 [University of Wisconsin-Madison](https://wisc.edu) <br/>
 (1 credit)
 
-**Course meetings**: Fri 11:00-11:50, [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
+**Course meetings**: Mon & Fri 10:00-10:50am, [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
 
 **Instructor**: [Karl Broman](https://kbroman.org),
 [6743 Medical Sciences Center](https://kbroman.org/6743msc.html)
@@ -110,9 +110,6 @@ of discussion.
 There will be two written homework assignments
 The homework assignments will include:
 writing an abstract, and writing a 2 min elevator speech.
-
-- [Homework 1](homework1.html) (due 4 Nov)
-- [Homework 2](homework2.html) (due 11 Nov)
 
 ### Additional policies and statements
 

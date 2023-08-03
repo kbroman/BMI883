@@ -11,7 +11,7 @@ papers, securing research funding, giving talks, presenting posters,
 making a personal website, job opportunities in universities and
 industry, and teaching.
 
-**Course meetings**: Mon & Fri 10:00-10:50, [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
+**Course meetings**: Mon & Fri 10:00-10:50am, [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
 
 **Instructor**: [Karl Broman](https://kbroman.org),
 [6743 Medical Sciences Center](https://kbroman.org/6743msc.html)
