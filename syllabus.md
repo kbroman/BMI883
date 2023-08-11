@@ -8,7 +8,7 @@ description: Syllabus for BMI 883, Biomedical data science professional skills
 [University of Wisconsin-Madison](https://wisc.edu) <br/>
 (1 credit)
 
-**Course meetings**: Mon & Fri 10:00-10:50am, [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
+**Course meetings**: Mon & Fri 10:00-10:50am, [4765 MSC](https://kbroman.org/4765msc.html)
 
 **Instructor**: [Karl Broman](https://kbroman.org),
 [6743 Medical Sciences Center](https://kbroman.org/6743msc.html)
@@ -33,7 +33,7 @@ industry, and teaching.
 
 ### COVID-19
 
-- The course will be held in-person in [4765 MSC](https://www.biostat.wisc.edu/~kbroman/4765msc.html)
+- The course will be held in-person in [4765 MSC](https://kbroman.org/4765msc.html)
 - COVID-19 vaccination is strongly encouraged
 - Use of a high-quality mask is strongly encouraged
 - If you have COVID-related symptoms, please stay home
