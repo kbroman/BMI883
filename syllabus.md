@@ -28,6 +28,10 @@ industry, and teaching.
 - Students will be able to write clear, well-formed journal articles and research grant proposals.
 - Students will be able to give a clear oral presentation of their research work.
 - Students will be able to demonstrate understanding of research on unconscious bias (for example, in reviewing papers/grants, in writing/evaluating recommendation letters, and in hiring/promotion) and assumptions and strategies to overcome them.
+- Students will be able to describe good practices for research scientists’ participation in social media.
+- Students will be able to describe strategies for forming and managing scientific collaborations.
+- Students will be able to identify employment opportunities at universities and in industry and demonstrate understanding of strategies for applying and interviewing for such positions.
+- Students will be able to describe and compare different teaching practices and methods for motivating students.
 
 
 
