@@ -54,6 +54,9 @@ description: Resources for BMI 883, Biomedical data science professional skills
   writing
 - [Jeff Leek](http://jtleek.com) on [Writing your first academic paper](https://github.com/jtleek/firstpaper)
 - [The craft of scientific writing](https://amzn.to/3AZlP98) by Michael Alley (book)
+- [Andrew Gelman](https://statmodeling.stat.columbia.edu)'s [Advice on
+  writing research
+  papers](https://statmodeling.stat.columbia.edu/2009/07/30/advice_on_writi/)
 
 ### Reviewing papers
 
