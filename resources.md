@@ -8,10 +8,10 @@ description: Resources for BMI 883, Biomedical data science professional skills
 
 - [Making the Right Moves](https://www.hhmi.org/science-education/programs/making-right-moves)
   (free ebook from [HHMI](https://www.hhmi.org))
-- [Deep Work: Rules for Focused Success in a Distracted World](https://smile.amazon.com/gp/product/1455586692?ie=UTF8&tag=7210-20)
+- [Deep Work: Rules for Focused Success in a Distracted World](https://amazon.com/gp/product/1455586692?ie=UTF8&tag=7210-20)
 - [What they didn't teach you in graduate
-  school](https://smile.amazon.com/gp/product/1579226442?ie=UTF8&tag=7210-20)
-- [A PhD is not enough!](https://smile.amazon.com/gp/product/B004EHZDE8?ie=UTF8&tag=7210-20)
+  school](https://amazon.com/gp/product/1579226442?ie=UTF8&tag=7210-20)
+- [A PhD is not enough!](https://amazon.com/gp/product/B004EHZDE8?ie=UTF8&tag=7210-20)
 - [The CS Asst Prof Handbook](https://vijay03.github.io/asstprofbook/chapters-list/)
 
 
