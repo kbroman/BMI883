@@ -72,7 +72,7 @@ description: Resources for BMI 883, Biomedical data science professional skills
 - [Hidden contributions to theoretical population genetics](https://doi.org/10.1534/genetics.118.301277)
 - ["UW Black student journalists frustrated, disappointed after
   meeting with Blank"](https://madison.com/ct/news/local/education/uw-black-student-journalists-frustrated-disappointed-after-meeting-with-blank/article_bf9cd73f-6385-50e3-b789-c3a33a6f91b0.html)
-- [Thinking, fast and slow](https://amzn.to/2VCtdUO)
+- [Thinking, fast and slow](https://amzn.to/2VCtdUO) (book)
 
 ### CV templates
 
