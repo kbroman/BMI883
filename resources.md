@@ -77,7 +77,8 @@ description: Resources for BMI 883, Biomedical data science professional skills
 ### CV templates
 
 - [Awesome-CV](https://github.com/posquit0/Awesome-CV)
-- [Minimal-Resume](https://github.com/RatulSaha/Minimal-Resume)
+- [Minimal-Resume](https://www.overleaf.com/latex/templates/minimal-resume/pbmdkzjfvjkw)
+  (in LaTeX, at Overleaf)
 
 
 ### Applying for jobs
