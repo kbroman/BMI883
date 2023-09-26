@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Example elevator speech
-description: "Example elevator speech for BMI 883"
+description: "Example elevator speech for BMI 883/884"
 ---
 
 

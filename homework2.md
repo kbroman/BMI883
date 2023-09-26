@@ -1,7 +1,7 @@
 ---
 layout: page
 title: homework 2
-description: "Second homework assignment for BMI 883, Biomedical data science professional skills, to write an elevator speech about your research."
+description: "Second homework assignment for BMI 883/884, Biomedical data science professional skills, to write an elevator speech about your research."
 ---
 
 **Due 11 Nov 2022**

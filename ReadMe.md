@@ -1,4 +1,4 @@
-## BMI 883: Biomedical data science professional skills
+## BMI 883/884: Biomedical data science professional skills
 
 This repository contains the source for the website for the course
 [Biomedical data science professional

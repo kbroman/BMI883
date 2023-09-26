@@ -1,7 +1,7 @@
 ---
 layout: page
 title: resources
-description: Resources for BMI 883, Biomedical data science professional skills
+description: Resources for BMI 883/884, Biomedical data science professional skills
 ---
 
 ### Books

@@ -2,7 +2,7 @@
 layout: page
 title: schedule
 tagline: fall, 2023
-description: Schedule and readings for BMI 883, Biomedical data science professional skills
+description: Schedule and readings for BMI 883/884, Biomedical data science professional skills
 ---
 
 | Date    | &nbsp;&nbsp;&nbsp;&nbsp;   | Topic/Reading  |

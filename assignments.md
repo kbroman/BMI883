@@ -1,7 +1,7 @@
 ---
 layout: page
 title: assignments
-description: Assignments for BMI 883, Biomedical data science professional skills
+description: Assignments for BMI 883/884, Biomedical data science professional skills
 ---
 
 ### Readings
