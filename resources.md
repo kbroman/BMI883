@@ -30,7 +30,7 @@ description: Resources for BMI 883/884, Biomedical data science professional ski
 - [Andrew Gelman](https://statmodeling.stat.columbia.edu)'s [Advice on
   writing research
   papers](https://statmodeling.stat.columbia.edu/2009/07/30/advice_on_writi/)
-- [Scientific writing
+- [Improving your scientific writing
   (pdf)](https://www.med.upenn.edu/bushmanlab/assets/user-content/documents/scientificwritingv67.pdf)
   by [Frederick Bushman](https://www.med.upenn.edu/bushmanlab/)
 
