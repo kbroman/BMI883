@@ -33,6 +33,7 @@ description: Resources for BMI 883/884, Biomedical data science professional ski
 - [Improving your scientific writing
   (pdf)](https://www.med.upenn.edu/bushmanlab/assets/user-content/documents/scientificwritingv67.pdf)
   by [Frederick Bushman](https://www.med.upenn.edu/bushmanlab/)
+- [Advice for responding to reviews](https://labrigger.com/blog/2023/10/13/advice-for-responding-to-reviewers/)
 
 ### Giving talks
 
