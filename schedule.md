@@ -26,11 +26,11 @@ description: Schedule and readings for BMI 883/884, Biomedical data science prof
 | 3 Nov  |    | Predominantly undergraduate institutions: guest [Steve Wang](http://paleo.domains.swarthmore.edu/) (**via zoom, 9:30-10:20am Central**) |
 | 6 Nov  |    | Non-tenure-track university jobs: guest [Peter Carbonetto](https://pcarbo.github.io/) (**via zoom**) |
 | 10 Nov   |    | Success on the tenure-track: [Fernandes et al. (2020)](https://doi.org/10.7554/eLife.54097) [![pdf icon](icons/pdf-icon.png)](https://bit.ly/3d3uA9b) |
-| 13 Nov  |    | Application materials: [Reading 1](https://mitcommlab.mit.edu/broad/commkit/cover-letter-for-a-faculty-position/), [Reading 2 ![pdf icon](icons/pdf-icon.png)](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf), [Building a career (Ch 6)](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-6/1)
+| 13 Nov  |    | Postdocs: [Reading 1](https://www.insidehighered.com/advice/2016/08/23/should-you-pursue-postdoc-or-not-essay), [Reading 2](https://www.nature.com/articles/d41586-020-03235-y), [Reading 3](http://simplystats.github.io/2011/12/28/grad-students-in-bio-statistics-do-a-postdoc/) |
 | 17 Nov  |    | Jobs in industry: guest [Sandra Griffith](https://www.sandradgriffith.com/) (**via zoom**) |
 | 20 Nov  |    | Discussion of different types of jobs |
 | 24 Nov  |    | **No class** |
-| 27 Nov  |    | Applying for jobs; postdocs: [Reading 1](https://www.insidehighered.com/advice/2016/08/23/should-you-pursue-postdoc-or-not-essay), [Reading 2](https://www.nature.com/articles/d41586-020-03235-y), [Reading 3](http://simplystats.github.io/2011/12/28/grad-students-in-bio-statistics-do-a-postdoc/) |
+| 27 Nov  |    | Applying for jobs; application materials: [Reading 1](https://mitcommlab.mit.edu/broad/commkit/cover-letter-for-a-faculty-position/), [Reading 2 ![pdf icon](icons/pdf-icon.png)](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf), [Building a career (Ch 6)](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-6/1) |
 | 1 Dec  |    | Academic job interviews: [preparing for interviews](https://www.sciencemag.org/careers/2018/12/how-put-your-best-foot-forward-faculty-job-interviews), [interviews gone bad](https://www.insidehighered.com/blogs/globalhighered/faculty-job-interviews-gone-bad) |
 | 4 Dec   |    | Industry job interviews: [Building a career in data science Ch 7](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-7/1), [Appendix](https://livebook.manning.com/book/build-a-career-in-data-science/appendix/) |
 | 8 Dec   |    | Teaching: [Teach Tech Together (Ch 10)](https://teachtogether.tech/en/index.html#s:motivation) |
