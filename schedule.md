@@ -31,8 +31,8 @@ description: Schedule and readings for BMI 883/884, Biomedical data science prof
 | 20 Nov  |    | Discussion of different types of jobs |
 | 24 Nov  |    | **No class** |
 | 27 Nov  |    | Applying for jobs; application materials: [Reading 1](https://mitcommlab.mit.edu/broad/commkit/cover-letter-for-a-faculty-position/), [Reading 2 ![pdf icon](icons/pdf-icon.png)](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf), [Building a career (Ch 6)](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-6/1) |
-| 1 Dec  |    | Academic job interviews: [preparing for interviews](https://www.sciencemag.org/careers/2018/12/how-put-your-best-foot-forward-faculty-job-interviews), [interviews gone bad](https://www.insidehighered.com/blogs/globalhighered/faculty-job-interviews-gone-bad) |
-| 4 Dec   |    | Industry job interviews: [Building a career in data science Ch 7](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-7/1), [Appendix](https://livebook.manning.com/book/build-a-career-in-data-science/appendix/) |
+| 1 Dec  |    |  **No class** |
+| 4 Dec  |    | Job interviews: [preparing for academic interviews](https://www.sciencemag.org/careers/2018/12/how-put-your-best-foot-forward-faculty-job-interviews); [academic interviews gone bad](https://www.insidehighered.com/blogs/globalhighered/faculty-job-interviews-gone-bad);<br/> [Building a career in data science Ch 7](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-7/1), [Appendix](https://livebook.manning.com/book/build-a-career-in-data-science/appendix/) |
 | 8 Dec   |    | Teaching: [Teach Tech Together (Ch 10)](https://teachtogether.tech/en/index.html#s:motivation) |
 | 11 Dec  |    | Time management: [Laura Albert video ![video icon](icons/video-icon.png)](https://www.youtube.com/watch?v=Jmdz0p_gTww) |
 
