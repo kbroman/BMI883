@@ -24,6 +24,9 @@ Past versions:
 - [Fall, 2022](https://kbroman.org/BMI883_fall2022/)
   [![github icon](https://kbroman.org/icons16/github-icon.png)](https://github.com/kbroman/BMI883_fall2022/)
 
+- [Fall, 2023](https://kbroman.org/BMI883_fall2023/)
+  [![github icon](https://kbroman.org/icons16/github-icon.png)](https://github.com/kbroman/BMI883_fall2023/)
+
 ---
 
 This web site is licensed under
