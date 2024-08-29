@@ -49,12 +49,12 @@ for the two courses.
 
 - The course will be held in-person in [4765 MSC](https://kbroman.org/4765msc.html)
 - COVID-19 vaccination is strongly encouraged
-- Use of a high-quality mask is strongly encouraged
+- Use of a high-quality mask (N95 or KN95) is strongly encouraged
 - If you have COVID-related symptoms, please stay home
 - If you need to miss class, [email Karl Broman](https://kbroman.org/about)
 - If you would like to join the class virtually, [email Karl
   Broman](https://kbroman.org/about) in advance so he can arrange a
-  hybrid meeting; the zoom link is on the [course canvas site](https://canvas.wisc.edu/courses/375790).
+  hybrid meeting; the zoom link is on the [course canvas site](https://canvas.wisc.edu/courses/425370).
 
 
 
