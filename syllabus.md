@@ -6,7 +6,7 @@ description: Syllabus for BMI 883/884, Biomedical data science professional skil
 
 [BMI](https://biostat.wisc.edu) 883/884, Biomedical data science professional skills <br/>
 [University of Wisconsin-Madison](https://wisc.edu) <br/>
-(1 credit)
+(2 credits)
 
 **Course meetings**: Mon & Fri 10:00-10:50am, [4765 MSC](https://kbroman.org/4765msc.html)
 
