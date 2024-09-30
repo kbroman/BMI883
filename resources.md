@@ -47,6 +47,10 @@ description: Resources for BMI 883/884, Biomedical data science professional ski
 - [Design principles for virtual presentations (video)](https://uwmadison.box.com/s/9mjv8jiai3qt5nbbssk5c56dc8qugc4g)
 - [The craft of scientific presentations](https://amzn.to/3mDqxU2) by Michael Alley (book)
 
+### Elevator pitches
+
+- [Graduate school 3-min thesis competition](https://grad.wisc.edu/professional-development/3-minute-thesis/)
+
 ### Posters
 
 - [UW-Madison DesignLab](https://designlab.wisc.edu) [page about research posters](https://designlab.wisc.edu/resources/projects/posters/)
