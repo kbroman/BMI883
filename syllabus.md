@@ -128,6 +128,8 @@ There will be two written homework assignments
 The homework assignments will include:
 writing an abstract, and writing a 2 min elevator speech.
 
+- [Homework 1](homework1.html) **due 4 Oct 2024**
+
 ### Additional policies and statements
 
 Also see the [additional institutional policies and
