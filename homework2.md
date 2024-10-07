@@ -1,10 +1,10 @@
 ---
 layout: page
 title: homework 2
-description: "First homework assignment for BMI 883, Biomedical data science professional skills, to write an abstract for something."
+description: "Second homework assignment for BMI 883, Biomedical data science professional skills, to write an abstract for something."
 ---
 
-**Due 25 Oct 2024**
+**Due 28 Oct 2024**
 
 Write a 100-150 word abstract for something:
 
