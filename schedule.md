@@ -15,7 +15,7 @@ description: Schedule and readings for BMI 883/884, Biomedical data science prof
 | 23 Sep   |    | [Scientific funding and the grant review process ![slides pdf](icons/pdf-icon.png)](slides/04_grants.pdf): [Getting Funded](https://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2_ch9.pdf#page=3) (from [_Making the Right Moves_](https://www.hhmi.org/science-education/programs/making-right-moves))|
 | 27 Sep   |    | [Writing a grant ![slides pdf](icons/pdf-icon.png)](slides/05_grantwriting.pdf): [grant tips](http://pages.cs.wisc.edu/~markhill/grant-tips.html); [advice on NSF proposals](https://www.cs.cmu.edu/~sfinger/advice/advice.html); [writing analysis plans](https://magazine.amstat.org/blog/2013/04/01/writingtipsfunding2013/) |
 | 30 Sep  |    | The 2 min "elevator" speech: [How to sell your thesis](https://thesiswhisperer.com/2010/07/01/how-to-sell-your-thesis-in-3-minutes-or-less/); [Deconstructing the elevator speech](https://uclalibrary.github.io/research-tips/deconstructing-the-elevator-speech/) |
-| 4 Oct  |    | Elevator speech practice ([see Karl's example](elevator_speech_example.html)) ([**Homework 1 due**](homework1.html))|
+| 4 Oct  |    | Elevator speech practice ([see Karl's example](elevator_speech_example.html)) |
 | 7 Oct  |    | [Writing an abstract ![slides pdf](icons/pdf-icon.png)](slides/06_abstracts.pdf): [writing center advice](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/); [six easy steps](http://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/) |
 | 11 Oct  |    |  **No class** |
 | 14 Oct  |    | [Giving talks ![slides pdf](icons/pdf-icon.png)](slides/07_talks.pdf): [David Stern on "How to Give a Talk"](http://www.howtogiveatalk.com) |
@@ -23,7 +23,6 @@ description: Schedule and readings for BMI 883/884, Biomedical data science prof
 | 21 Oct   |   | Keeping a lab notebook: [Ten simple rules](https://doi.org/10.1371/journal.pcbi.1004385); [Open notebook science](https://crastina.se/open-notebook-science-the-carl-boettiger-interview-2/)  |
 | 25 Oct   |   | Overcoming unconscious bias: [Kolehmainen and Carnes (2018)](https://doi.org/10.1161/CIRCULATIONAHA.117.031295); [Pritlove et al. (2019)](https://doi.org/10.1016/S0140-6736(18)32267-0) |
 | 28 Oct  |    | Success in collaboration (listening): [HBR re listening](https://hbr.org/2021/12/how-to-become-a-better-listener), [How to talk so kids will listen... (ch 1)](https://bit.ly/3HhnFHY) |
-|         |    | ([**Homework 2 due**](homework2.html))| |
 | 1 Nov   |    | Social media: [Carl Sagan effect](https://doi.org/10.1523/JNEUROSCI.0086-16.2016); [Building a brand](https://www.stephaniehicks.com/blog/building-a-brand-as-a-scientist/) |
 | 4 Nov  |     | Success on the tenure-track: [Fernandes et al. (2020)](https://doi.org/10.7554/eLife.54097) [![pdf icon](icons/pdf-icon.png)](https://bit.ly/3d3uA9b) |
 | 8 Nov  |     | Non-tenure-track university jobs: [guest Elizabeth Sugar](https://publichealth.jhu.edu/faculty/1488/elizabeth-sugar) (**via zoom**) |
