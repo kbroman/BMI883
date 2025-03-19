@@ -24,9 +24,9 @@ industry, and teaching.
 
 ### BMI 883/884 merger
 
-In past years, BMI 883 and 884 were separate single-credit courses
+Originally, BMI 883 and 884 were separate single-credit courses
 taught in the fall and spring semesters, respectively, and meeting for
-50 minutes each week. In Fall, 2023, they are being merged into a
+50 minutes each week. They are now merged into a
 single 2-credit course that meets twice weekly. Students are to enroll
 for both course numbers and will be assigned a single, common grade
 for the two courses.
