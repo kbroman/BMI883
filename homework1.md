@@ -4,7 +4,7 @@ title: homework 1
 description: "First homework assignment for BMI 883/884, Biomedical data science professional skills, to write an elevator speech about your research."
 ---
 
-**Due 4 Oct 2024**
+**Due 3 Oct 2025**
 
 Write a 1- or 2-min elevator speech about you and your research interests.
 (To be presented on 4 Oct; send me a draft of the text in advance.)
