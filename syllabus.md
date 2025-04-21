@@ -8,10 +8,10 @@ description: Syllabus for BMI 883/884, Biomedical data science professional skil
 [University of Wisconsin-Madison](https://wisc.edu) <br/>
 (2 credits)
 
-**Course meetings**: Mon & Fri 10:00-10:50am, [4765 MSC](https://kbroman.org/4765msc.html)
+**Course meetings**: Mon & Fri 10:00-10:50am, 5621 [Morgridge Hall](https://map.wisc.edu/s/l44vvws8)
 
 **Instructor**: [Karl Broman](https://kbroman.org),
-[6743 Medical Sciences Center](https://kbroman.org/6743msc.html)
+5665 [Morgridge Hall](https://map.wisc.edu/s/l44vvws8)
 
 **Office hours** by appointment
 
@@ -47,7 +47,7 @@ for the two courses.
 
 ### COVID-19
 
-- The course will be held in-person in [4765 MSC](https://kbroman.org/4765msc.html)
+- The course will be held in-person in 5621 [Morgridge Hall](https://map.wisc.edu/s/l44vvws8)
 - COVID-19 vaccination is strongly encouraged
 - Use of a high-quality mask (N95 or KN95) is strongly encouraged
 - If you have COVID-related symptoms, please stay home
