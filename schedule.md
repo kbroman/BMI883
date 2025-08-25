@@ -39,6 +39,6 @@ description: Schedule and readings for BMI 883/884, Biomedical data science prof
 
 ---
 
-Readings available at [the course Canvas site](https://canvas.wisc.edu/).
+Readings available at [the course Canvas site](https://canvas.wisc.edu/courses/477187/).
 
 To be determined |
