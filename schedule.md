@@ -30,9 +30,9 @@ description: Schedule and readings for BMI 883/884, Biomedical data science prof
 | 14 Nov  |    | Discussion of different types of jobs |
 | 17 Nov  |    | Postdocs: [Reading 1](https://www.insidehighered.com/advice/2016/08/23/should-you-pursue-postdoc-or-not-essay), [Reading 2](https://www.nature.com/articles/d41586-020-03235-y), [Reading 3](http://simplystats.github.io/2011/12/28/grad-students-in-bio-statistics-do-a-postdoc/) |
 | 21 Nov  |    | Applying for jobs; application materials: [Reading 1](https://mitcommlab.mit.edu/broad/commkit/cover-letter-for-a-faculty-position/), [Reading 2 ![pdf icon](icons/pdf-icon.png)](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf), [Building a career (Ch 6)](https://livebook.manningn.com/book/build-your-career-in-data-science/chapter-6/1) |
-| 24 Nov  |    |  Academic job interviews [preparing for academic interviews](https://www.sciencemag.org/careers/2018/12/how-put-your-best-foot-forward-faculty-job-interviews); [academic interviews gone bad](https://www.insidehighered.com/blogs/globalhighered/faculty-job-interviews-gone-bad);|
+| 24 Nov  |    |  Academic job interviews: [preparing for academic interviews](https://www.sciencemag.org/careers/2018/12/how-put-your-best-foot-forward-faculty-job-interviews); [academic interviews gone bad](https://www.insidehighered.com/blogs/globalhighered/faculty-job-interviews-gone-bad);|
 | 28 Nov  |    |  **No class** |
-| 1 Dec  |    | Industry job interviews [Building a career in data science Ch 7](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-7/1), [Appendix](https://livebook.manning.com/book/build-a-career-in-data-science/appendix/) |
+| 1 Dec  |    | Industry job interviews: [Building a career in data science Ch 7](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-7/1), [Appendix](https://livebook.manning.com/book/build-a-career-in-data-science/appendix/) |
 | 5 Dec   |    | Teaching: [Teach Tech Together (Ch 10)](https://teachtogether.tech/en/index.html#s:motivation) |
 | 8 Dec   |    | Time management: [Laura Albert video ![video icon](icons/video-icon.png)](https://www.youtube.com/watch?v=Jmdz0p_gTww) |
 
