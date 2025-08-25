@@ -17,7 +17,7 @@ description: Schedule and readings for BMI 883/884, Biomedical data science prof
 | 29 Sep  |    | The 2 min "elevator" speech: [How to sell your thesis](https://thesiswhisperer.com/2010/07/01/how-to-sell-your-thesis-in-3-minutes-or-less/); [Deconstructing the elevator speech](https://uclalibrary.github.io/research-tips/deconstructing-the-elevator-speech/) |
 | 3 Oct  |    | Elevator speech practice ([see Karl's example](elevator_speech_example.html)) |
 | 6 Oct  |    | [Writing an abstract ![slides pdf](icons/pdf-icon.png)](slides/06_abstracts.pdf): [writing center advice](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/); [six easy steps](http://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/) |
-| 10 Oct  |    |  **No class** |
+| 10 Oct  |    |  To be determined |
 | 13 Oct  |    | [Giving talks ![slides pdf](icons/pdf-icon.png)](slides/07_talks.pdf): [David Stern on "How to Give a Talk"](http://www.howtogiveatalk.com) |
 | 17 Oct  |    | Preparing and presenting a poster: ["Better scientific poster"](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better); [Designing research posters ![video icon](icons/video-icon.png)](https://www.youtube.com/watch?v=XDJeSj7u488) |
 | 20 Oct   |   | Keeping a lab notebook: [Ten simple rules](https://doi.org/10.1371/journal.pcbi.1004385); [Open notebook science](https://crastina.se/open-notebook-science-the-carl-boettiger-interview-2/)  |
