@@ -14,3 +14,8 @@ of discussion.
 
 There will be two homework assignments: writing an abstract, and
 writing a 2 min elevator speech.
+
+### Generative AI
+
+**Do not** use generative AI / large language models, such as ChatGPT,
+for your homework assignments. The writing should be entirely your own.
