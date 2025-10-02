@@ -17,12 +17,18 @@ Past versions:
 
 - [Fall, 2020](https://kbroman.org/BMI883_fall2020/)
   [![github icon](https://kbroman.org/icons16/github-icon.png)](https://github.com/kbroman/BMI883_fall2020/)
+  ([BMI 884 Spring, 2021](https://kbroman.org/BMI884_spring2021/)
+  [![github icon](https://kbroman.org/icons16/github-icon.png)](https://github.com/kbroman/BMI884_spring2021/))
 
 - [Fall, 2021](https://kbroman.org/BMI883_fall2021/)
   [![github icon](https://kbroman.org/icons16/github-icon.png)](https://github.com/kbroman/BMI883_fall2021/)
+  ([BMI 884 Spring, 2022](https://kbroman.org/BMI884_spring2022/)
+  [![github icon](https://kbroman.org/icons16/github-icon.png)](https://github.com/kbroman/BMI884_spring2022/))
 
 - [Fall, 2022](https://kbroman.org/BMI883_fall2022/)
   [![github icon](https://kbroman.org/icons16/github-icon.png)](https://github.com/kbroman/BMI883_fall2022/)
+  ([BMI 884 Spring, 2023](https://kbroman.org/BMI884_spring2023/)
+  [![github icon](https://kbroman.org/icons16/github-icon.png)](https://github.com/kbroman/BMI884_spring2023/))
 
 - [Fall, 2023](https://kbroman.org/BMI883_fall2023/)
   [![github icon](https://kbroman.org/icons16/github-icon.png)](https://github.com/kbroman/BMI883_fall2023/)
