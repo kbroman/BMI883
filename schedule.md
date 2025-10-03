@@ -24,10 +24,10 @@ description: Schedule and readings for BMI 883/884, Biomedical data science prof
 | 24 Oct   |   | Success in collaboration (listening): [HBR re listening](https://hbr.org/2021/12/how-to-become-a-better-listener), [How to talk so kids will listen... (ch 1)](https://bit.ly/3HhnFHY) |
 | 27 Oct  |    | Social media: [Carl Sagan effect](https://doi.org/10.1523/JNEUROSCI.0086-16.2016); [Building a brand](https://www.stephaniehicks.com/blog/building-a-brand-as-a-scientist/) |
 | 31 Oct   |    | Success on the tenure-track: [Fernandes et al. (2020)](https://doi.org/10.7554/eLife.54097) [![pdf icon](icons/pdf-icon.png)](https://bit.ly/3d3uA9b) |
-| 3 Nov  |     | Non-tenure-track university jobs (guest, via zoom) |
-| 7 Nov  |     |   **No class** |
+| 3 Nov   |    | Jobs in industry (guest, via zoom) |
+| 7 Nov   |    |   **No class** |
 | 10 Nov  |    | Predominantly undergraduate institutions (guest, via zoom) |
-| 14 Nov  |    | Jobs in industry (guest, via zoom) |
+| 14 Nov  |    | Non-tenure-track university jobs (guest, via zoom) |
 | 17 Nov  |    | Discussion of different types of jobs |
 | 21 Nov  |    | Postdocs: [Reading 1](https://www.insidehighered.com/advice/2016/08/23/should-you-pursue-postdoc-or-not-essay), [Reading 2](https://www.nature.com/articles/d41586-020-03235-y), [Reading 3](http://simplystats.github.io/2011/12/28/grad-students-in-bio-statistics-do-a-postdoc/) |
 | 24 Nov  |    |  Applying for jobs; application materials: [Reading 1](https://mitcommlab.mit.edu/broad/commkit/cover-letter-for-a-faculty-position/), [Reading 2 ![pdf icon](icons/pdf-icon.png)](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf), [Building a career (Ch 6)](https://livebook.manningn.com/book/build-your-career-in-data-science/chapter-6/1) |
