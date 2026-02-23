@@ -4,7 +4,7 @@ title: homework 2
 description: "Second homework assignment for BMI 883/884, Biomedical data science professional skills, to write an elevator speech about your research."
 ---
 
-**Due 9 Oct 2025**
+**Due 9 Oct 2026**
 
 Write a 1- or 2-min elevator speech about you and your research interests.
 (To be presented on 10 Oct; send me a draft of the text in advance.)
