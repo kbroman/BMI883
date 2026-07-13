@@ -11,8 +11,7 @@ papers, securing research funding, giving talks, presenting posters,
 making a personal website, job opportunities in universities and
 industry, and teaching.
 
-**Course meetings**: Mon & Fri 10:00-10:50am, location TBD
-<!-- 5530 [Morgridge Hall](https://map.wisc.edu/s/l44vvws8) -->
+**Course meetings**: Mon & Fri 10:00-10:50am, location 5530 [Morgridge Hall](https://map.wisc.edu/s/l44vvws8)
 
 **Instructor**: [Karl Broman](https://kbroman.org),
 5665 [Morgridge Hall](https://map.wisc.edu/s/l44vvws8)
