@@ -18,6 +18,8 @@ industry, and teaching.
 
 **Office hours** by appointment
 
+**Zoom link** on [canvas site](https://canvas.wisc.edu/courses/529569)
+
 - [schedule](schedule.html)
 - [syllabus](syllabus.html)
 - [assignments](assignments.html)
