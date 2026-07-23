@@ -138,14 +138,14 @@ for your homework assignments. The writing should be entirely your own.
 ### Additional policies and statements
 
 Also see the [additional institutional policies and
-statements](https://guide.wisc.edu/courses/#syllabustext):
+statements](https://ctlm.wisc.edu/syllabus/syllabuspolicies):
 
-- [Teaching & Learning Data Transparency](https://guide.wisc.edu/courses/#SyllabusTLData)
-- [Privacy of Student Records](https://guide.wisc.edu/courses/#SyllabusFERPA)
-- [Campus Resources for Academic Success](https://guide.wisc.edu/courses/#SyllabusCampusResources)
-- [Course Evaluations](https://guide.wisc.edu/courses/#SyllabusCourseEvals) and [Digital Course Evaluations](https://guide.wisc.edu/courses/#SyllabusDigitalCourseEval)
-- [Students' Rules, Rights, and Responsibilities](https://guide.wisc.edu/courses/#SyllabusStudentsRightsResponsibilities)
-- [Diversity and Inclusion Statement](https://guide.wisc.edu/courses/#SyllabusDiversityInclusion)
-- [Academic Integrity Statement](https://guide.wisc.edu/courses/#SyllabusAcademicIntegrity)
-- [Accommodations for Students with Disabilities](https://guide.wisc.edu/courses/#SyllabusAccommodations)
-- [Academic Calendar and Religious Observances](https://guide.wisc.edu/courses/#SyllabusCalendarReligiousObservances)
+- [Academic Calendar and Religious Observances](https://ctlm.wisc.edu/syllabus/syllabuspolicies/#religious)
+- [Academic Integrity Statement](https://ctlm.wisc.edu/syllabus/syllabuspolicies/#integrity)
+- [Accommodations for Students with Disabilities](https://ctlm.wisc.edu/syllabus/syllabuspolicies/#accommodations)
+- [Course Evaluations](https://ctlm.wisc.edu/syllabus/syllabuspolicies/#evaluations)
+- [Diversity and Inclusion Statement](https://ctlm.wisc.edu/syllabus/syllabuspolicies/#diversity)
+- [Privacy of Student Records and the Use of Audio Recorded Lectures](https://ctlm.wisc.edu/syllabus/syllabuspolicies/#privacy)
+- [Student Health, Well-Being, and Basic Needs](https://ctlm.wisc.edu/syllabus/syllabuspolicies/#health)
+- [Students' Rules, Rights, and Responsibilities](https://ctlm.wisc.edu/syllabus/syllabuspolicies/#rules)
+- [Teaching & Learning Data Transparency](https://ctlm.wisc.edu/syllabus/syllabuspolicies/#data)
