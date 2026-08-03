@@ -98,7 +98,7 @@ description: Resources for BMI 883/884, Biomedical data science professional ski
 
 ### Career building
 
-- [Beyond the professoriate](https://beyondprof.com/aurora/)
+- [Beyond the professoriate](https://kb.wisc.edu/grad/133289)
   (available to UW-Madison community)
 
 - [Pipers, droppers, nevers, and hoppers: Observed career pathways
