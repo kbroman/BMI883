@@ -101,12 +101,13 @@ description: Resources for BMI 883/884, Biomedical data science professional ski
 - [Beyond the professoriate](https://kb.wisc.edu/grad/133289)
   (available to UW-Madison community)
 
-- [Pipers, droppers, nevers, and hoppers: Observed career pathways
-  among STEM PhD scientists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3939090)
+- [Mapping scientists’ career trajectories in the survey of doctorate recipients using three statistical methods](https://doi.org/10.1038/s41598-023-34809-1)
+
 
 ### Postdocs
 
 - [In praise of postdocs (pdf)](https://imstat.org/wp-content/uploads/Bulletin32_6.pdf#page=4)
+
 
 ### Academic jobs
 
