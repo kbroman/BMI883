@@ -40,7 +40,7 @@ description: Resources for BMI 883/884, Biomedical data science professional ski
 ### Giving talks
 
 - [Guidelines on giving
-  talks](https://www.amelia.mn/blog/misc/2020/04/16/presentations.html),
+  talks](https://www.amelia.mn/blog/2020-04-16-presentations/),
   [Amelia McNamara](https://www.amelia.mn/)
 - [Leek group guide to giving
   talks](https://github.com/jtleek/talkguide)
