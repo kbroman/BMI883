@@ -44,7 +44,7 @@ description: Resources for BMI 883/884, Biomedical data science professional ski
   [Amelia McNamara](https://www.amelia.mn/)
 - [Leek group guide to giving
   talks](https://github.com/jtleek/talkguide)
-- [Karl](https://kbroman.org)'s slides on [How to give a scientific presentation](https://www.biostat.wisc.edu/~kbroman/talks/giving_talks.pdf)
+- [Karl](https://kbroman.org)'s slides on [How to give a scientific presentation](https://kbroman.org/slides/giving_talks.pdf)
 - [UW-Madison DesignLab](https://designlab.wisc.edu) [page about presentations](https://designlab.wisc.edu/resources/projects/presentations/)
 - [Design principles for virtual presentations (video)](https://uwmadison.box.com/s/9mjv8jiai3qt5nbbssk5c56dc8qugc4g)
 - [The craft of scientific presentations](https://amzn.to/3mDqxU2) by Michael Alley (book)
