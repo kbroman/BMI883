@@ -6,7 +6,7 @@ description: Resources for BMI 883/884, Biomedical data science professional ski
 
 ### Books
 
-- [Making the Right Moves](https://www.hhmi.org/science-education/programs/making-right-moves)
+- [Making the Right Moves](https://www.hhmi.org/sites/default/files/2023-10/making-the-right-moves-second-edition.pdf)
   (free ebook from [HHMI](https://www.hhmi.org))
 - [Deep Work: Rules for Focused Success in a Distracted World](https://amazon.com/gp/product/1455586692?ie=UTF8&tag=7210-20)
 - [What they didn't teach you in graduate
