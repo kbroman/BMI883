@@ -60,7 +60,8 @@ description: Resources for BMI 883/884, Biomedical data science professional ski
 
 ### Lab notebooks
 
-- [Data management and laboratory notebooks (ch 8 of _Making Moves_)](http://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2_ch8.pdf#page=3)
+- [Data management and laboratory notebooks (ch 8 of _Making the Right
+  Moves_)](https://www.hhmi.org/sites/default/files/2023-10/making-the-right-moves-second-edition.pdf#page=154)
 
 ### Grants
 
