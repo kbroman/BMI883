@@ -25,7 +25,7 @@ description: Resources for BMI 883/884, Biomedical data science professional ski
 - [Why academics write so badly](https://areomagazine.com/2020/07/06/writing-wrongs-why-academics-write-so-badly-and-how-that-hurts-them/)
 - [LSC 560](https://guide.wisc.edu/courses/lsc/) course on scientific
   writing
-- [Jeff Leek](http://jtleek.com) on [Writing your first academic paper](https://github.com/jtleek/firstpaper)
+- [Jeff Leek](https://jtleek.com) on [Writing your first academic paper](https://github.com/jtleek/firstpaper)
 - [The craft of scientific writing](https://amzn.to/3AZlP98) by Michael Alley (book)
 - [Andrew Gelman](https://statmodeling.stat.columbia.edu)'s [Advice on
   writing research
