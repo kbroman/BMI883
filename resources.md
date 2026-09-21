@@ -71,7 +71,7 @@ description: Resources for BMI 883/884, Biomedical data science professional ski
 
 ### Reviewing papers
 
-- [Jeff Leek](http://jtleek.com) on [Reviewing academic papers](https://github.com/jtleek/reviews)
+- [Jeff Leek](https://jtleek.com) on [Reviewing academic papers](https://github.com/jtleek/reviews)
 
 
 ### Articles raised in discussion of implicit bias
