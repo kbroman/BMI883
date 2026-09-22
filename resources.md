@@ -112,7 +112,7 @@ description: Resources for BMI 883/884, Biomedical data science professional ski
 
 ### Academic jobs
 
-- [Academic job market interviewing and negotiation](http://web.archive.org/web/20181221203426/https://www.sciencewithdrdoom.com/blog-1/2018/4/1/academic-job-market-interviewing-negotiation)
+- [Academic job market interviewing and negotiation](https://web.archive.org/web/20181221203426/https://www.sciencewithdrdoom.com/blog-1/2018/4/1/academic-job-market-interviewing-negotiation)
 
 - [Survey of the academic job market](https://doi.org/10.1101/796466)
 
