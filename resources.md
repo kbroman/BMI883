@@ -116,7 +116,7 @@ description: Resources for BMI 883/884, Biomedical data science professional ski
 
 - [Survey of the academic job market](https://doi.org/10.1101/796466)
 
-- [Faculty job interviewing tips](http://www.jeffreybigham.com/blog/2020/faculty-job-interviewing-tips.html)
+- [Faculty job interviewing tips](https://www.jeffreybigham.com/blog/2020/faculty-job-interviewing-tips.html)
 
 
 ### Industry jobs
