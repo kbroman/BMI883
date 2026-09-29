@@ -29,7 +29,7 @@ description: Schedule and readings for BMI 883/884, Biomedical data science prof
 | 9 Nov   |    | Predominantly undergraduate institutions (guest TBD, via zoom) |
 | 13 Nov  |    | Non-tenure-track university jobs (guest TBD, via zoom) |
 | 16 Nov  |    | Discussion of different types of jobs |
-| 20 Nov  |    | Postdocs: [Reading 1](https://www.insidehighered.com/advice/2016/08/23/should-you-pursue-postdoc-or-not-essay), [Reading 2](https://www.nature.com/articles/d41586-020-03235-y), [Reading 3](http://simplystats.github.io/2011/12/28/grad-students-in-bio-statistics-do-a-postdoc/) |
+| 20 Nov  |    | Postdocs: [Reading 1](https://www.insidehighered.com/advice/2016/08/23/should-you-pursue-postdoc-or-not-essay), [Reading 2](https://www.nature.com/articles/d41586-020-03235-y), [Reading 3](https://simplystats.github.io/2011/12/28/grad-students-in-bio-statistics-do-a-postdoc/) |
 | 23 Nov  |    |  Applying for jobs; application materials: [Reading 1](https://mitcommlab.mit.edu/broad/commkit/cover-letter-for-a-faculty-position/), [Reading 2 ![pdf icon](icons/pdf-icon.png)](assets/gsas-cvs-and-cover-letters.pdf), [Building a career (Ch 6)](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-6/1) |
 | 27 Nov  |    |  **No class** |
 | 30 Nov  |    | Job interviews: [preparing for academic interviews](https://www.sciencemag.org/careers/2018/12/how-put-your-best-foot-forward-faculty-job-interviews); [academic interviews gone bad](https://www.insidehighered.com/blogs/globalhighered/faculty-job-interviews-gone-bad); |
