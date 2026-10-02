@@ -24,3 +24,5 @@ industry, and teaching.
 - [syllabus](syllabus.html)
 - [assignments](assignments.html)
 - [resources](resources.html)
+
+- [Homework 1](homework1.html) due **19 Oct 2026**

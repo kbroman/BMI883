@@ -15,6 +15,9 @@ of discussion.
 There will be two homework assignments: writing an abstract, and
 writing a 2 min elevator speech.
 
+- [Homework 1](homework1.html) due **19 Oct 2026**
+
+
 ### Generative AI
 
 **Do not** use generative AI / large language models, such as ChatGPT,
