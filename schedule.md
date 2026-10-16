@@ -24,17 +24,17 @@ description: Schedule and readings for BMI 883/884, Biomedical data science prof
 | 23 Oct   |   | Overcoming unconscious bias: [Kolehmainen and Carnes (2018)](https://doi.org/10.1161/CIRCULATIONAHA.117.031295); [Pritlove et al. (2019)](https://doi.org/10.1016/S0140-6736(18)32267-0) |
 | 26 Oct   |   | Success in collaboration (listening): [HBR re listening](https://hbr.org/2021/12/how-to-become-a-better-listener), [How to talk so kids will listen... (ch 1)](https://bit.ly/3HhnFHY) |
 | 30 Oct  |    | Social media: [Carl Sagan effect](https://doi.org/10.1523/JNEUROSCI.0086-16.2016); [Building a brand](https://www.stephaniehicks.com/blog/building-a-brand-as-a-scientist/) |
-| 2 Nov   |    | Success on the tenure-track: [Fernandes et al. (2020)](https://doi.org/10.7554/eLife.54097) [![pdf icon](icons/pdf-icon.png)](https://bit.ly/3d3uA9b) |
-| 6 Nov   |    | Jobs in industry (guest TBD, via zoom) |
-| 9 Nov   |    | Predominantly undergraduate institutions (guest TBD, via zoom) |
-| 13 Nov  |    | Non-tenure-track university jobs (guest TBD, via zoom) |
-| 16 Nov  |    | Discussion of different types of jobs |
-| 20 Nov  |    | Postdocs: [Reading 1](https://www.insidehighered.com/advice/2016/08/23/should-you-pursue-postdoc-or-not-essay), [Reading 2](https://www.nature.com/articles/d41586-020-03235-y), [Reading 3](https://simplystats.github.io/2011/12/28/grad-students-in-bio-statistics-do-a-postdoc/) |
-| 23 Nov  |    |  Applying for jobs; application materials: [Reading 1](https://mitcommlab.mit.edu/broad/commkit/cover-letter-for-a-faculty-position/), [Reading 2 ![pdf icon](icons/pdf-icon.png)](assets/gsas-cvs-and-cover-letters.pdf), [Building a career (Ch 6)](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-6/1) |
+| 2 Nov   |    | Predominantly undergraduate institutions (guest [Nicholas Horton](https://www.amherst.edu/people/facstaff/nhorton), Amherst, via zoom) |
+| 6 Nov   |    | Success on the tenure-track: [Fernandes et al. (2020)](https://doi.org/10.7554/eLife.54097) [![pdf icon](icons/pdf-icon.png)](https://bit.ly/3d3uA9b) |
+| 9 Nov   |    | **No class** |
+| 13 Nov  |    | Jobs in industry (guest Michael Lawrence, Freenome, via zoom) |
+| 16 Nov  |    | Non-tenure-track university jobs (guest [Kathleen Wannemuehler](https://biostat.wisc.edu/staff/wannemuehler-kathleen/), UW-Madison, via zoom) |
+| 20 Nov  |    | Discussion of different types of jobs |
+| 23 Nov  |    | Postdocs: [Reading 1](https://www.insidehighered.com/advice/2016/08/23/should-you-pursue-postdoc-or-not-essay), [Reading 2](https://www.nature.com/articles/d41586-020-03235-y), [Reading 3](https://simplystats.github.io/2011/12/28/grad-students-in-bio-statistics-do-a-postdoc/) |
 | 27 Nov  |    |  **No class** |
-| 30 Nov  |    | Job interviews: [preparing for academic interviews](https://www.sciencemag.org/careers/2018/12/how-put-your-best-foot-forward-faculty-job-interviews); [academic interviews gone bad](https://www.insidehighered.com/blogs/globalhighered/faculty-job-interviews-gone-bad); |
+| 30 Nov  |    | Applying for jobs; application materials: [Reading 1](https://mitcommlab.mit.edu/broad/commkit/cover-letter-for-a-faculty-position/), [Reading 2 ![pdf icon](icons/pdf-icon.png)](assets/gsas-cvs-and-cover-letters.pdf), [Building a career (Ch 6)](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-6/1) |
+| 4 Dec  |    | Job interviews: [preparing for academic interviews](https://www.sciencemag.org/careers/2018/12/how-put-your-best-foot-forward-faculty-job-interviews); [academic interviews gone bad](https://www.insidehighered.com/blogs/globalhighered/faculty-job-interviews-gone-bad); |
 |        |    | [Building a career in data science Ch 7](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-7/1), [Appendix](https://livebook.manning.com/book/build-a-career-in-data-science/appendix/) |
-| 4 Dec  |    | Teaching: [Teach Tech Together (Ch 10)](https://teachtogether.tech/en/index.html#s:motivation) |
 | 7 Dec   |    | Time management: [Laura Albert video ![video icon](icons/video-icon.png)](https://www.youtube.com/watch?v=Jmdz0p_gTww) |
 
 
