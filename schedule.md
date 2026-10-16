@@ -27,7 +27,7 @@ description: Schedule and readings for BMI 883/884, Biomedical data science prof
 | 2 Nov   |    | Predominantly undergraduate institutions (guest [Nicholas Horton](https://www.amherst.edu/people/facstaff/nhorton), Amherst, via zoom) |
 | 6 Nov   |    | Success on the tenure-track: [Fernandes et al. (2020)](https://doi.org/10.7554/eLife.54097) [![pdf icon](icons/pdf-icon.png)](https://bit.ly/3d3uA9b) |
 | 9 Nov   |    | **No class** |
-| 13 Nov  |    | Jobs in industry (guest Michael Lawrence, Freenome, via zoom) |
+| 13 Nov  |    | Jobs in industry (guest [Michael Lawrence](https://github.com/lawremi), Freenome, via zoom) |
 | 16 Nov  |    | Non-tenure-track university jobs (guest [Kathleen Wannemuehler](https://biostat.wisc.edu/staff/wannemuehler-kathleen/), UW-Madison, via zoom) |
 | 20 Nov  |    | Discussion of different types of jobs |
 | 23 Nov  |    | Postdocs: [Reading 1](https://www.insidehighered.com/advice/2016/08/23/should-you-pursue-postdoc-or-not-essay), [Reading 2](https://www.nature.com/articles/d41586-020-03235-y), [Reading 3](https://simplystats.github.io/2011/12/28/grad-students-in-bio-statistics-do-a-postdoc/) |
