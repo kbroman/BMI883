@@ -26,4 +26,4 @@ industry, and teaching.
 - [resources](resources.html)
 
 - [Homework 1](homework1.html) due **19 Oct 2026**
-- [Homework 2](homework2.html) due **16 Oct 2026**
+- [Homework 2](homework2.html) due 16 Oct 2026
