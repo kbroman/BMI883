@@ -24,8 +24,8 @@ description: Schedule and readings for BMI 883/884, Biomedical data science prof
 | 23 Oct   |   | Overcoming unconscious bias: [Kolehmainen and Carnes (2018)](https://doi.org/10.1161/CIRCULATIONAHA.117.031295); [Pritlove et al. (2019)](https://doi.org/10.1016/S0140-6736(18)32267-0) |
 | 26 Oct   |   | Success in collaboration (listening): [HBR re listening](https://hbr.org/2021/12/how-to-become-a-better-listener), [How to talk so kids will listen... (ch 1)](https://bit.ly/3HhnFHY) |
 | 30 Oct  |    | Social media: [Carl Sagan effect](https://doi.org/10.1523/JNEUROSCI.0086-16.2016); [Building a brand](https://www.stephaniehicks.com/blog/building-a-brand-as-a-scientist/) |
-| 2 Nov   |    | Predominantly undergraduate institutions (guest [Nicholas Horton](https://www.amherst.edu/people/facstaff/nhorton), Amherst, via zoom) |
-| 6 Nov   |    | Success on the tenure-track: [Fernandes et al. (2020)](https://doi.org/10.7554/eLife.54097) [![pdf icon](icons/pdf-icon.png)](https://bit.ly/3d3uA9b) |
+| 2 Nov   |    | Success on the tenure-track: [Fernandes et al. (2020)](https://doi.org/10.7554/eLife.54097) [![pdf icon](icons/pdf-icon.png)](https://bit.ly/3d3uA9b) |
+| 6 Nov   |    | Predominantly undergraduate institutions (guest [Nicholas Horton](https://www.amherst.edu/people/facstaff/nhorton), Amherst, via zoom) |
 | 9 Nov   |    | **No class** |
 | 13 Nov  |    | Jobs in industry (guest [Michael Lawrence](https://github.com/lawremi), Freenome, via zoom) |
 | 16 Nov  |    | Non-tenure-track university jobs (guest [Kathleen Wannemuehler](https://biostat.wisc.edu/staff/wannemuehler-kathleen/), UW-Madison, via zoom) |
